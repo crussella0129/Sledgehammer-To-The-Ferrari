@@ -1,8 +1,8 @@
-#Sports-Betting
+# Sports-Betting
 
-##Some Excel workbook templates and a brief tutorial on how to use them—at your own risk. If you lose it all, it’s totally on you, dude.
+## Some Excel workbook templates and a brief tutorial on how to use them—at your own risk. If you lose it all, it’s totally on you, dude.
 
-###Tutorial
+### Tutorial
 
 1. Pick Your Sport
  - Go to Sports-Reference and choose your sport (e.g., Basketball-Reference).
