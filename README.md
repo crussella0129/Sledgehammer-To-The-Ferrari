@@ -1,6 +1,8 @@
-# Sports-Betting
+# "Hammer to the Ferrari" Sports-Betting
 
 ## An Excel workbook template and a brief tutorial on how to use it (at your own risk). If you lose it all, it’s totally on you, dude.
+
+### It's called "Hammer to the Ferrari" because a co-worker of mine, who once was an actuary for a casino system, said this model was like taking a "simple hammer" to the "ferrari" of the sports book's model. 
 
 ### Tutorial
 
